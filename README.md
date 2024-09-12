@@ -1,12 +1,13 @@
 # Lab1
 
 How to set up the environment:
-
--make a src directory 
--within that make c and u directories
--put all the code files into c
--put the testfile with unit tests into u
--view screenshot on my Lab report if needed. (video and instructions show how it runs too if needed)
+- download all the files from this repo. aside from out directory since thats just output
+- get hamcrest and junit
+- make a src directory 
+- within that make c and u directories
+- put all the code files into c
+- put the testfile with unit tests into u
+- view screenshot on my Lab report if needed. (video and instructions show how it runs too if needed)
  
  How to compile/run the code:
 
