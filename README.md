@@ -11,7 +11,7 @@ How to set up the environment:
  
  How to compile/run the code:
 
-Step 1 : Compile ALL the java files using:
+Step 1 : Compile ALL the java files using: (DO NOT USE GITBHUB PREVIEW!!! COMMAND HAS A * which gets cut out)
 - javac -cp junit-4.13.2.jar:hamcrest-core-1.3.jar -d ./out ./src/c/*.java ./src/u/*.java
 
 Step 2 : Run CarRunner.java by using:
